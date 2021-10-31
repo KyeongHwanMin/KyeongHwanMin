@@ -2,9 +2,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-<br/>  
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Java,Django)](https://github.com/KyeongHwanMin)
 

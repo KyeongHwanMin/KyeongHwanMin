@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Java,Django)](https://github.com/KyeongHwanMin)
 
@@ -54,5 +54,5 @@
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=KyeongHwanMin&repo=O-restaurant)](https://github.com/KyeongHwanMin/O-restaurant)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=KyeongHwanMin&repo=Django-pinterest)](https://github.com/KyeongHwanMin/Django-pinterest)
 
- 
+ </div>  
 

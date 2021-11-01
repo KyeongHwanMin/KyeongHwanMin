@@ -45,7 +45,7 @@
 
 
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=KyeongHwanMin&repo=O-restaurant)](https://github.com/KyeongHwanMin/O-restaurant)
+
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=KyeongHwanMin&repo=Django-pinterest)](https://github.com/KyeongHwanMin/Django-pinterest)
 
  </div>  

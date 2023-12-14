@@ -1,10 +1,4 @@
 
-## My Ability
-<div align="center">
- 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Django,Java)](https://github.com/KyeongHwanMin)
- </div> 
- 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -14,9 +8,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 </div>
 </td><td valign="top" width="33%">
  
